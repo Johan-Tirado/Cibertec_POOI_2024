@@ -1,0 +1,7 @@
+D:\POOI\Tarea\Semana_02\Propuesto06\bin\Debug\Propuesto06.exe.config
+D:\POOI\Tarea\Semana_02\Propuesto06\bin\Debug\Propuesto06.exe
+D:\POOI\Tarea\Semana_02\Propuesto06\bin\Debug\Propuesto06.pdb
+D:\POOI\Tarea\Semana_02\Propuesto06\obj\Debug\Propuesto06.csproj.AssemblyReference.cache
+D:\POOI\Tarea\Semana_02\Propuesto06\obj\Debug\Propuesto06.csproj.CoreCompileInputs.cache
+D:\POOI\Tarea\Semana_02\Propuesto06\obj\Debug\Propuesto06.exe
+D:\POOI\Tarea\Semana_02\Propuesto06\obj\Debug\Propuesto06.pdb

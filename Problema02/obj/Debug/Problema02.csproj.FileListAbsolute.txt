@@ -1,0 +1,7 @@
+D:\POOI\Tarea\Semana_02\Problema02\bin\Debug\Problema02.exe.config
+D:\POOI\Tarea\Semana_02\Problema02\bin\Debug\Problema02.exe
+D:\POOI\Tarea\Semana_02\Problema02\bin\Debug\Problema02.pdb
+D:\POOI\Tarea\Semana_02\Problema02\obj\Debug\Problema02.csproj.AssemblyReference.cache
+D:\POOI\Tarea\Semana_02\Problema02\obj\Debug\Problema02.csproj.CoreCompileInputs.cache
+D:\POOI\Tarea\Semana_02\Problema02\obj\Debug\Problema02.exe
+D:\POOI\Tarea\Semana_02\Problema02\obj\Debug\Problema02.pdb
